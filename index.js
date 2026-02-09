@@ -13,7 +13,7 @@ app.get('/products', cors(), function (req, res, next) {
     res.json(products);
 });
 
-const port = 3030;
+const port = process.env.PORT;
 app.listen(port, () => {
     console.log(`Server listening on port ${port}`);
 });
