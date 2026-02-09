@@ -1,0 +1,24 @@
+{
+  "name": "cst8915-lab3-product-service-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansid0109/CST8915-Lab3-Product-Service-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansid0109/CST8915-Lab3-Product-Service-Node/issues"
+  },
+  "homepage": "https://github.com/ansid0109/CST8915-Lab3-Product-Service-Node#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
